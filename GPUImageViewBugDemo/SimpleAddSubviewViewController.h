@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SimpleAddSubviewViewController.h
 //  GPUImageViewBugDemo
 //
 //  Created by Valentine on 08.08.16.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SimpleAddSubviewViewController : UIViewController
 
 
 @end
