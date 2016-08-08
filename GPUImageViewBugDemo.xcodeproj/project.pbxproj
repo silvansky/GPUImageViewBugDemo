@@ -15,6 +15,7 @@
 		A36244B41D58CC1100B3F979 /* ConstraintsBasedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A36244B31D58CC1100B3F979 /* ConstraintsBasedViewController.m */; };
 		A36244C31D58CD2800B3F979 /* libGPUImage.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A36244BE1D58CD1B00B3F979 /* libGPUImage.a */; };
 		A36244C51D58CD6900B3F979 /* swan.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A36244C41D58CD6900B3F979 /* swan.jpg */; };
+		A36244C81D58D11600B3F979 /* StoryboardViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A36244C71D58D11600B3F979 /* StoryboardViewController.m */; };
 		A3E727A51D58C91800A44610 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E727A41D58C91800A44610 /* main.m */; };
 		A3E727A81D58C91800A44610 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E727A71D58C91800A44610 /* AppDelegate.m */; };
 		A3E727AB1D58C91800A44610 /* SimpleAddSubviewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A3E727AA1D58C91800A44610 /* SimpleAddSubviewViewController.m */; };
@@ -57,6 +58,8 @@
 		A36244B31D58CC1100B3F979 /* ConstraintsBasedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConstraintsBasedViewController.m; sourceTree = "<group>"; };
 		A36244B71D58CD1B00B3F979 /* GPUImage.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GPUImage.xcodeproj; path = GPUImage/framework/GPUImage.xcodeproj; sourceTree = "<group>"; };
 		A36244C41D58CD6900B3F979 /* swan.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = swan.jpg; sourceTree = "<group>"; };
+		A36244C61D58D11600B3F979 /* StoryboardViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StoryboardViewController.h; sourceTree = "<group>"; };
+		A36244C71D58D11600B3F979 /* StoryboardViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StoryboardViewController.m; sourceTree = "<group>"; };
 		A3E727A01D58C91800A44610 /* GPUImageViewBugDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GPUImageViewBugDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3E727A41D58C91800A44610 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		A3E727A61D58C91800A44610 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -135,6 +138,8 @@
 				A3E727AA1D58C91800A44610 /* SimpleAddSubviewViewController.m */,
 				A36244B21D58CC1100B3F979 /* ConstraintsBasedViewController.h */,
 				A36244B31D58CC1100B3F979 /* ConstraintsBasedViewController.m */,
+				A36244C61D58D11600B3F979 /* StoryboardViewController.h */,
+				A36244C71D58D11600B3F979 /* StoryboardViewController.m */,
 				A3E727AC1D58C91800A44610 /* Main.storyboard */,
 				A3E727AF1D58C91900A44610 /* Assets.xcassets */,
 				A3E727B11D58C91900A44610 /* LaunchScreen.storyboard */,
@@ -249,6 +254,7 @@
 			files = (
 				A3E727AB1D58C91800A44610 /* SimpleAddSubviewViewController.m in Sources */,
 				A3E727A81D58C91800A44610 /* AppDelegate.m in Sources */,
+				A36244C81D58D11600B3F979 /* StoryboardViewController.m in Sources */,
 				A36244B41D58CC1100B3F979 /* ConstraintsBasedViewController.m in Sources */,
 				A3E727A51D58C91800A44610 /* main.m in Sources */,
 			);
